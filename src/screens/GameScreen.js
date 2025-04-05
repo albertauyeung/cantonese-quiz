@@ -133,16 +133,16 @@ function GameScreen() {
             </h2>
             <div className="grid grid-cols-2 gap-4">
               {currentQuestion.choices.map((choice, index) => {
-                // Split the value into Chinese characters and Jyutping
-                const [chinese, jyutping] = choice.value.split(' ');
-                // Split Jyutping into pronunciation and tone
-                const [pronunciation, tone] = jyutping.replace(/[()]/g, '').split(/(\d+)/);
+                // Split the value into Chinese characters and jyutping
+                const [chinese, jyutping] = choice.value.split(' (');
+                const cleanJyutping = jyutping.replace(')', '');
+                
                 return (
                   <button
                     key={index}
                     onClick={() => handleAnswerSelect(choice)}
                     disabled={selectedAnswer !== null}
-                    className={`p-6 rounded-lg flex flex-col items-center justify-center transition-colors duration-200 ${
+                    className={`p-8 rounded-lg flex flex-col items-center justify-center transition-colors duration-200 ${
                       selectedAnswer === choice
                         ? choice.correct_answer
                           ? 'bg-green-500 text-white'
@@ -150,11 +150,10 @@ function GameScreen() {
                         : 'bg-gray-100 hover:bg-gray-200'
                     }`}
                   >
-                    <span className="text-4xl font-bold mb-2">{chinese}</span>
-                    <div className="flex items-center gap-1">
-                      <span className="text-xl text-blue-600">{pronunciation}</span>
-                      <span className="text-xl text-purple-600">{tone}</span>
-                    </div>
+                    <span className="text-4xl font-bold mb-4">{chinese}</span>
+                    <span className="text-xl">
+                      {cleanJyutping}
+                    </span>
                   </button>
                 );
               })}
