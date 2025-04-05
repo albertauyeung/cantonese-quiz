@@ -1,0 +1,426 @@
+{
+  "topic": "Fruits",
+  "description": "Learn the names of different fruits in Cantonese",
+  "questions": [
+    {
+      "title": "What is the Cantonese word for 'apple'?",
+      "choices": [
+        {
+          "value": "蘋果 (ping4 gwo2)",
+          "correct_answer": true
+        },
+        {
+          "value": "橙 (caang2)",
+          "correct_answer": false
+        },
+        {
+          "value": "香蕉 (hoeng1 ziu1)",
+          "correct_answer": false
+        },
+        {
+          "value": "梨 (lei4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'orange'?",
+      "choices": [
+        {
+          "value": "蘋果 (ping4 gwo2)",
+          "correct_answer": false
+        },
+        {
+          "value": "橙 (caang2)",
+          "correct_answer": true
+        },
+        {
+          "value": "香蕉 (hoeng1 ziu1)",
+          "correct_answer": false
+        },
+        {
+          "value": "梨 (lei4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'banana'?",
+      "choices": [
+        {
+          "value": "蘋果 (ping4 gwo2)",
+          "correct_answer": false
+        },
+        {
+          "value": "橙 (caang2)",
+          "correct_answer": false
+        },
+        {
+          "value": "香蕉 (hoeng1 ziu1)",
+          "correct_answer": true
+        },
+        {
+          "value": "梨 (lei4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'pear'?",
+      "choices": [
+        {
+          "value": "蘋果 (ping4 gwo2)",
+          "correct_answer": false
+        },
+        {
+          "value": "橙 (caang2)",
+          "correct_answer": false
+        },
+        {
+          "value": "香蕉 (hoeng1 ziu1)",
+          "correct_answer": false
+        },
+        {
+          "value": "梨 (lei4)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'grape'?",
+      "choices": [
+        {
+          "value": "提子 (tai4 zi2)",
+          "correct_answer": true
+        },
+        {
+          "value": "西瓜 (sai1 gwaa1)",
+          "correct_answer": false
+        },
+        {
+          "value": "菠蘿 (bo1 lo4)",
+          "correct_answer": false
+        },
+        {
+          "value": "芒果 (mong1 gwo2)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'watermelon'?",
+      "choices": [
+        {
+          "value": "提子 (tai4 zi2)",
+          "correct_answer": false
+        },
+        {
+          "value": "西瓜 (sai1 gwaa1)",
+          "correct_answer": true
+        },
+        {
+          "value": "菠蘿 (bo1 lo4)",
+          "correct_answer": false
+        },
+        {
+          "value": "芒果 (mong1 gwo2)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'pineapple'?",
+      "choices": [
+        {
+          "value": "提子 (tai4 zi2)",
+          "correct_answer": false
+        },
+        {
+          "value": "西瓜 (sai1 gwaa1)",
+          "correct_answer": false
+        },
+        {
+          "value": "菠蘿 (bo1 lo4)",
+          "correct_answer": true
+        },
+        {
+          "value": "芒果 (mong1 gwo2)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'mango'?",
+      "choices": [
+        {
+          "value": "提子 (tai4 zi2)",
+          "correct_answer": false
+        },
+        {
+          "value": "西瓜 (sai1 gwaa1)",
+          "correct_answer": false
+        },
+        {
+          "value": "菠蘿 (bo1 lo4)",
+          "correct_answer": false
+        },
+        {
+          "value": "芒果 (mong1 gwo2)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'strawberry'?",
+      "choices": [
+        {
+          "value": "士多啤梨 (si6 do1 be1 lei2)",
+          "correct_answer": true
+        },
+        {
+          "value": "藍莓 (laam4 mui2)",
+          "correct_answer": false
+        },
+        {
+          "value": "奇異果 (kei4 ji6 gwo2)",
+          "correct_answer": false
+        },
+        {
+          "value": "榴槤 (lau4 lin4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'blueberry'?",
+      "choices": [
+        {
+          "value": "士多啤梨 (si6 do1 be1 lei2)",
+          "correct_answer": false
+        },
+        {
+          "value": "藍莓 (laam4 mui2)",
+          "correct_answer": true
+        },
+        {
+          "value": "奇異果 (kei4 ji6 gwo2)",
+          "correct_answer": false
+        },
+        {
+          "value": "榴槤 (lau4 lin4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'kiwi'?",
+      "choices": [
+        {
+          "value": "士多啤梨 (si6 do1 be1 lei2)",
+          "correct_answer": false
+        },
+        {
+          "value": "藍莓 (laam4 mui2)",
+          "correct_answer": false
+        },
+        {
+          "value": "奇異果 (kei4 ji6 gwo2)",
+          "correct_answer": true
+        },
+        {
+          "value": "榴槤 (lau4 lin4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'durian'?",
+      "choices": [
+        {
+          "value": "士多啤梨 (si6 do1 be1 lei2)",
+          "correct_answer": false
+        },
+        {
+          "value": "藍莓 (laam4 mui2)",
+          "correct_answer": false
+        },
+        {
+          "value": "奇異果 (kei4 ji6 gwo2)",
+          "correct_answer": false
+        },
+        {
+          "value": "榴槤 (lau4 lin4)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'peach'?",
+      "choices": [
+        {
+          "value": "桃 (tou4)",
+          "correct_answer": true
+        },
+        {
+          "value": "杏 (hang6)",
+          "correct_answer": false
+        },
+        {
+          "value": "李 (lei5)",
+          "correct_answer": false
+        },
+        {
+          "value": "梅 (mui4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'apricot'?",
+      "choices": [
+        {
+          "value": "桃 (tou4)",
+          "correct_answer": false
+        },
+        {
+          "value": "杏 (hang6)",
+          "correct_answer": true
+        },
+        {
+          "value": "李 (lei5)",
+          "correct_answer": false
+        },
+        {
+          "value": "梅 (mui4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'plum'?",
+      "choices": [
+        {
+          "value": "桃 (tou4)",
+          "correct_answer": false
+        },
+        {
+          "value": "杏 (hang6)",
+          "correct_answer": false
+        },
+        {
+          "value": "李 (lei5)",
+          "correct_answer": true
+        },
+        {
+          "value": "梅 (mui4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'plum' (another variety)?",
+      "choices": [
+        {
+          "value": "桃 (tou4)",
+          "correct_answer": false
+        },
+        {
+          "value": "杏 (hang6)",
+          "correct_answer": false
+        },
+        {
+          "value": "李 (lei5)",
+          "correct_answer": false
+        },
+        {
+          "value": "梅 (mui4)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'pomegranate'?",
+      "choices": [
+        {
+          "value": "石榴 (sek6 lau4)",
+          "correct_answer": true
+        },
+        {
+          "value": "荔枝 (lai6 zi1)",
+          "correct_answer": false
+        },
+        {
+          "value": "龍眼 (lung4 ngaan5)",
+          "correct_answer": false
+        },
+        {
+          "value": "山竹 (saan1 zuk1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'lychee'?",
+      "choices": [
+        {
+          "value": "石榴 (sek6 lau4)",
+          "correct_answer": false
+        },
+        {
+          "value": "荔枝 (lai6 zi1)",
+          "correct_answer": true
+        },
+        {
+          "value": "龍眼 (lung4 ngaan5)",
+          "correct_answer": false
+        },
+        {
+          "value": "山竹 (saan1 zuk1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'longan'?",
+      "choices": [
+        {
+          "value": "石榴 (sek6 lau4)",
+          "correct_answer": false
+        },
+        {
+          "value": "荔枝 (lai6 zi1)",
+          "correct_answer": false
+        },
+        {
+          "value": "龍眼 (lung4 ngaan5)",
+          "correct_answer": true
+        },
+        {
+          "value": "山竹 (saan1 zuk1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'mangosteen'?",
+      "choices": [
+        {
+          "value": "石榴 (sek6 lau4)",
+          "correct_answer": false
+        },
+        {
+          "value": "荔枝 (lai6 zi1)",
+          "correct_answer": false
+        },
+        {
+          "value": "龍眼 (lung4 ngaan5)",
+          "correct_answer": false
+        },
+        {
+          "value": "山竹 (saan1 zuk1)",
+          "correct_answer": true
+        }
+      ]
+    }
+  ]
+}

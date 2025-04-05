@@ -1,0 +1,426 @@
+{
+  "topic": "Animals",
+  "description": "Learn the names of different animals in Cantonese",
+  "questions": [
+    {
+      "title": "What is the Cantonese word for 'dog'?",
+      "choices": [
+        {
+          "value": "狗 (gau2)",
+          "correct_answer": true
+        },
+        {
+          "value": "貓 (maau1)",
+          "correct_answer": false
+        },
+        {
+          "value": "兔 (tou3)",
+          "correct_answer": false
+        },
+        {
+          "value": "魚 (jyu4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'cat'?",
+      "choices": [
+        {
+          "value": "狗 (gau2)",
+          "correct_answer": false
+        },
+        {
+          "value": "貓 (maau1)",
+          "correct_answer": true
+        },
+        {
+          "value": "兔 (tou3)",
+          "correct_answer": false
+        },
+        {
+          "value": "魚 (jyu4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'fish'?",
+      "choices": [
+        {
+          "value": "狗 (gau2)",
+          "correct_answer": false
+        },
+        {
+          "value": "貓 (maau1)",
+          "correct_answer": false
+        },
+        {
+          "value": "兔 (tou3)",
+          "correct_answer": false
+        },
+        {
+          "value": "魚 (jyu4)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'rabbit'?",
+      "choices": [
+        {
+          "value": "狗 (gau2)",
+          "correct_answer": false
+        },
+        {
+          "value": "貓 (maau1)",
+          "correct_answer": false
+        },
+        {
+          "value": "兔 (tou3)",
+          "correct_answer": true
+        },
+        {
+          "value": "魚 (jyu4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'bird'?",
+      "choices": [
+        {
+          "value": "雀 (zoek3)",
+          "correct_answer": true
+        },
+        {
+          "value": "雞 (gai1)",
+          "correct_answer": false
+        },
+        {
+          "value": "鴨 (aap3)",
+          "correct_answer": false
+        },
+        {
+          "value": "鵝 (ngo4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'chicken'?",
+      "choices": [
+        {
+          "value": "雀 (zoek3)",
+          "correct_answer": false
+        },
+        {
+          "value": "雞 (gai1)",
+          "correct_answer": true
+        },
+        {
+          "value": "鴨 (aap3)",
+          "correct_answer": false
+        },
+        {
+          "value": "鵝 (ngo4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'duck'?",
+      "choices": [
+        {
+          "value": "雀 (zoek3)",
+          "correct_answer": false
+        },
+        {
+          "value": "雞 (gai1)",
+          "correct_answer": false
+        },
+        {
+          "value": "鴨 (aap3)",
+          "correct_answer": true
+        },
+        {
+          "value": "鵝 (ngo4)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'goose'?",
+      "choices": [
+        {
+          "value": "雀 (zoek3)",
+          "correct_answer": false
+        },
+        {
+          "value": "雞 (gai1)",
+          "correct_answer": false
+        },
+        {
+          "value": "鴨 (aap3)",
+          "correct_answer": false
+        },
+        {
+          "value": "鵝 (ngo4)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'pig'?",
+      "choices": [
+        {
+          "value": "豬 (zyu1)",
+          "correct_answer": true
+        },
+        {
+          "value": "牛 (ngau4)",
+          "correct_answer": false
+        },
+        {
+          "value": "羊 (joeng4)",
+          "correct_answer": false
+        },
+        {
+          "value": "馬 (maa5)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'cow'?",
+      "choices": [
+        {
+          "value": "豬 (zyu1)",
+          "correct_answer": false
+        },
+        {
+          "value": "牛 (ngau4)",
+          "correct_answer": true
+        },
+        {
+          "value": "羊 (joeng4)",
+          "correct_answer": false
+        },
+        {
+          "value": "馬 (maa5)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'sheep'?",
+      "choices": [
+        {
+          "value": "豬 (zyu1)",
+          "correct_answer": false
+        },
+        {
+          "value": "牛 (ngau4)",
+          "correct_answer": false
+        },
+        {
+          "value": "羊 (joeng4)",
+          "correct_answer": true
+        },
+        {
+          "value": "馬 (maa5)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'horse'?",
+      "choices": [
+        {
+          "value": "豬 (zyu1)",
+          "correct_answer": false
+        },
+        {
+          "value": "牛 (ngau4)",
+          "correct_answer": false
+        },
+        {
+          "value": "羊 (joeng4)",
+          "correct_answer": false
+        },
+        {
+          "value": "馬 (maa5)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'elephant'?",
+      "choices": [
+        {
+          "value": "象 (zoeng6)",
+          "correct_answer": true
+        },
+        {
+          "value": "獅子 (si1 zi2)",
+          "correct_answer": false
+        },
+        {
+          "value": "老虎 (lou5 fu2)",
+          "correct_answer": false
+        },
+        {
+          "value": "熊貓 (hung4 maau1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'lion'?",
+      "choices": [
+        {
+          "value": "象 (zoeng6)",
+          "correct_answer": false
+        },
+        {
+          "value": "獅子 (si1 zi2)",
+          "correct_answer": true
+        },
+        {
+          "value": "老虎 (lou5 fu2)",
+          "correct_answer": false
+        },
+        {
+          "value": "熊貓 (hung4 maau1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'tiger'?",
+      "choices": [
+        {
+          "value": "象 (zoeng6)",
+          "correct_answer": false
+        },
+        {
+          "value": "獅子 (si1 zi2)",
+          "correct_answer": false
+        },
+        {
+          "value": "老虎 (lou5 fu2)",
+          "correct_answer": true
+        },
+        {
+          "value": "熊貓 (hung4 maau1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'panda'?",
+      "choices": [
+        {
+          "value": "象 (zoeng6)",
+          "correct_answer": false
+        },
+        {
+          "value": "獅子 (si1 zi2)",
+          "correct_answer": false
+        },
+        {
+          "value": "老虎 (lou5 fu2)",
+          "correct_answer": false
+        },
+        {
+          "value": "熊貓 (hung4 maau1)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'monkey'?",
+      "choices": [
+        {
+          "value": "猴 (hau4)",
+          "correct_answer": true
+        },
+        {
+          "value": "蛇 (se4)",
+          "correct_answer": false
+        },
+        {
+          "value": "龜 (gwai1)",
+          "correct_answer": false
+        },
+        {
+          "value": "青蛙 (cing1 waa1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'snake'?",
+      "choices": [
+        {
+          "value": "猴 (hau4)",
+          "correct_answer": false
+        },
+        {
+          "value": "蛇 (se4)",
+          "correct_answer": true
+        },
+        {
+          "value": "龜 (gwai1)",
+          "correct_answer": false
+        },
+        {
+          "value": "青蛙 (cing1 waa1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'turtle'?",
+      "choices": [
+        {
+          "value": "猴 (hau4)",
+          "correct_answer": false
+        },
+        {
+          "value": "蛇 (se4)",
+          "correct_answer": false
+        },
+        {
+          "value": "龜 (gwai1)",
+          "correct_answer": true
+        },
+        {
+          "value": "青蛙 (cing1 waa1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'frog'?",
+      "choices": [
+        {
+          "value": "猴 (hau4)",
+          "correct_answer": false
+        },
+        {
+          "value": "蛇 (se4)",
+          "correct_answer": false
+        },
+        {
+          "value": "龜 (gwai1)",
+          "correct_answer": false
+        },
+        {
+          "value": "青蛙 (cing1 waa1)",
+          "correct_answer": true
+        }
+      ]
+    }
+  ]
+}

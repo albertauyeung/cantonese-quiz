@@ -1,0 +1,426 @@
+{
+  "topic": "Household Items",
+  "description": "Learn the names of common household items in Cantonese",
+  "questions": [
+    {
+      "title": "What is the Cantonese word for 'chair'?",
+      "choices": [
+        {
+          "value": "椅 (ji2)",
+          "correct_answer": true
+        },
+        {
+          "value": "枱 (toi2)",
+          "correct_answer": false
+        },
+        {
+          "value": "床 (cong4)",
+          "correct_answer": false
+        },
+        {
+          "value": "櫃 (gwai6)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'table'?",
+      "choices": [
+        {
+          "value": "椅 (ji2)",
+          "correct_answer": false
+        },
+        {
+          "value": "枱 (toi2)",
+          "correct_answer": true
+        },
+        {
+          "value": "床 (cong4)",
+          "correct_answer": false
+        },
+        {
+          "value": "櫃 (gwai6)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'bed'?",
+      "choices": [
+        {
+          "value": "椅 (ji2)",
+          "correct_answer": false
+        },
+        {
+          "value": "枱 (toi2)",
+          "correct_answer": false
+        },
+        {
+          "value": "床 (cong4)",
+          "correct_answer": true
+        },
+        {
+          "value": "櫃 (gwai6)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'cupboard'?",
+      "choices": [
+        {
+          "value": "椅 (ji2)",
+          "correct_answer": false
+        },
+        {
+          "value": "枱 (toi2)",
+          "correct_answer": false
+        },
+        {
+          "value": "床 (cong4)",
+          "correct_answer": false
+        },
+        {
+          "value": "櫃 (gwai6)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'lamp'?",
+      "choices": [
+        {
+          "value": "燈 (dang1)",
+          "correct_answer": true
+        },
+        {
+          "value": "鏡 (geng3)",
+          "correct_answer": false
+        },
+        {
+          "value": "鐘 (zung1)",
+          "correct_answer": false
+        },
+        {
+          "value": "窗 (coeng1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'mirror'?",
+      "choices": [
+        {
+          "value": "燈 (dang1)",
+          "correct_answer": false
+        },
+        {
+          "value": "鏡 (geng3)",
+          "correct_answer": true
+        },
+        {
+          "value": "鐘 (zung1)",
+          "correct_answer": false
+        },
+        {
+          "value": "窗 (coeng1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'clock'?",
+      "choices": [
+        {
+          "value": "燈 (dang1)",
+          "correct_answer": false
+        },
+        {
+          "value": "鏡 (geng3)",
+          "correct_answer": false
+        },
+        {
+          "value": "鐘 (zung1)",
+          "correct_answer": true
+        },
+        {
+          "value": "窗 (coeng1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'window'?",
+      "choices": [
+        {
+          "value": "燈 (dang1)",
+          "correct_answer": false
+        },
+        {
+          "value": "鏡 (geng3)",
+          "correct_answer": false
+        },
+        {
+          "value": "鐘 (zung1)",
+          "correct_answer": false
+        },
+        {
+          "value": "窗 (coeng1)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'door'?",
+      "choices": [
+        {
+          "value": "門 (mun4)",
+          "correct_answer": true
+        },
+        {
+          "value": "牆 (coeng4)",
+          "correct_answer": false
+        },
+        {
+          "value": "地板 (dei6 baan2)",
+          "correct_answer": false
+        },
+        {
+          "value": "天花板 (tin1 faa1 baan2)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'wall'?",
+      "choices": [
+        {
+          "value": "門 (mun4)",
+          "correct_answer": false
+        },
+        {
+          "value": "牆 (coeng4)",
+          "correct_answer": true
+        },
+        {
+          "value": "地板 (dei6 baan2)",
+          "correct_answer": false
+        },
+        {
+          "value": "天花板 (tin1 faa1 baan2)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'floor'?",
+      "choices": [
+        {
+          "value": "門 (mun4)",
+          "correct_answer": false
+        },
+        {
+          "value": "牆 (coeng4)",
+          "correct_answer": false
+        },
+        {
+          "value": "地板 (dei6 baan2)",
+          "correct_answer": true
+        },
+        {
+          "value": "天花板 (tin1 faa1 baan2)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'ceiling'?",
+      "choices": [
+        {
+          "value": "門 (mun4)",
+          "correct_answer": false
+        },
+        {
+          "value": "牆 (coeng4)",
+          "correct_answer": false
+        },
+        {
+          "value": "地板 (dei6 baan2)",
+          "correct_answer": false
+        },
+        {
+          "value": "天花板 (tin1 faa1 baan2)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'sofa'?",
+      "choices": [
+        {
+          "value": "梳化 (so1 faa2)",
+          "correct_answer": true
+        },
+        {
+          "value": "茶几 (caa4 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "電視機 (din6 si6 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "雪櫃 (syut3 gwai6)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'coffee table'?",
+      "choices": [
+        {
+          "value": "梳化 (so1 faa2)",
+          "correct_answer": false
+        },
+        {
+          "value": "茶几 (caa4 gei1)",
+          "correct_answer": true
+        },
+        {
+          "value": "電視機 (din6 si6 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "雪櫃 (syut3 gwai6)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'television'?",
+      "choices": [
+        {
+          "value": "梳化 (so1 faa2)",
+          "correct_answer": false
+        },
+        {
+          "value": "茶几 (caa4 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "電視機 (din6 si6 gei1)",
+          "correct_answer": true
+        },
+        {
+          "value": "雪櫃 (syut3 gwai6)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'refrigerator'?",
+      "choices": [
+        {
+          "value": "梳化 (so1 faa2)",
+          "correct_answer": false
+        },
+        {
+          "value": "茶几 (caa4 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "電視機 (din6 si6 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "雪櫃 (syut3 gwai6)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'washing machine'?",
+      "choices": [
+        {
+          "value": "洗衣機 (sai2 ji1 gei1)",
+          "correct_answer": true
+        },
+        {
+          "value": "微波爐 (mei4 bo1 lou4)",
+          "correct_answer": false
+        },
+        {
+          "value": "焗爐 (guk6 lou4)",
+          "correct_answer": false
+        },
+        {
+          "value": "洗碗機 (sai2 wun2 gei1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'microwave'?",
+      "choices": [
+        {
+          "value": "洗衣機 (sai2 ji1 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "微波爐 (mei4 bo1 lou4)",
+          "correct_answer": true
+        },
+        {
+          "value": "焗爐 (guk6 lou4)",
+          "correct_answer": false
+        },
+        {
+          "value": "洗碗機 (sai2 wun2 gei1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'oven'?",
+      "choices": [
+        {
+          "value": "洗衣機 (sai2 ji1 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "微波爐 (mei4 bo1 lou4)",
+          "correct_answer": false
+        },
+        {
+          "value": "焗爐 (guk6 lou4)",
+          "correct_answer": true
+        },
+        {
+          "value": "洗碗機 (sai2 wun2 gei1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'dishwasher'?",
+      "choices": [
+        {
+          "value": "洗衣機 (sai2 ji1 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "微波爐 (mei4 bo1 lou4)",
+          "correct_answer": false
+        },
+        {
+          "value": "焗爐 (guk6 lou4)",
+          "correct_answer": false
+        },
+        {
+          "value": "洗碗機 (sai2 wun2 gei1)",
+          "correct_answer": true
+        }
+      ]
+    }
+  ]
+}

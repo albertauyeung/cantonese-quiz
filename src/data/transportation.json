@@ -1,0 +1,426 @@
+{
+  "topic": "Transportation",
+  "description": "Learn the names of different modes of transportation in Cantonese",
+  "questions": [
+    {
+      "title": "What is the Cantonese word for 'bus'?",
+      "choices": [
+        {
+          "value": "巴士 (baa1 si2)",
+          "correct_answer": true
+        },
+        {
+          "value": "的士 (dik1 si2)",
+          "correct_answer": false
+        },
+        {
+          "value": "地鐵 (dei6 tit3)",
+          "correct_answer": false
+        },
+        {
+          "value": "電車 (din6 ce1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'taxi'?",
+      "choices": [
+        {
+          "value": "巴士 (baa1 si2)",
+          "correct_answer": false
+        },
+        {
+          "value": "的士 (dik1 si2)",
+          "correct_answer": true
+        },
+        {
+          "value": "地鐵 (dei6 tit3)",
+          "correct_answer": false
+        },
+        {
+          "value": "電車 (din6 ce1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'subway'?",
+      "choices": [
+        {
+          "value": "巴士 (baa1 si2)",
+          "correct_answer": false
+        },
+        {
+          "value": "的士 (dik1 si2)",
+          "correct_answer": false
+        },
+        {
+          "value": "地鐵 (dei6 tit3)",
+          "correct_answer": true
+        },
+        {
+          "value": "電車 (din6 ce1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'tram'?",
+      "choices": [
+        {
+          "value": "巴士 (baa1 si2)",
+          "correct_answer": false
+        },
+        {
+          "value": "的士 (dik1 si2)",
+          "correct_answer": false
+        },
+        {
+          "value": "地鐵 (dei6 tit3)",
+          "correct_answer": false
+        },
+        {
+          "value": "電車 (din6 ce1)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'ferry'?",
+      "choices": [
+        {
+          "value": "渡輪 (dou6 leon4)",
+          "correct_answer": true
+        },
+        {
+          "value": "飛機 (fei1 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "火車 (fo2 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "小巴 (siu2 baa1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'airplane'?",
+      "choices": [
+        {
+          "value": "渡輪 (dou6 leon4)",
+          "correct_answer": false
+        },
+        {
+          "value": "飛機 (fei1 gei1)",
+          "correct_answer": true
+        },
+        {
+          "value": "火車 (fo2 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "小巴 (siu2 baa1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'train'?",
+      "choices": [
+        {
+          "value": "渡輪 (dou6 leon4)",
+          "correct_answer": false
+        },
+        {
+          "value": "飛機 (fei1 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "火車 (fo2 ce1)",
+          "correct_answer": true
+        },
+        {
+          "value": "小巴 (siu2 baa1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'minibus'?",
+      "choices": [
+        {
+          "value": "渡輪 (dou6 leon4)",
+          "correct_answer": false
+        },
+        {
+          "value": "飛機 (fei1 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "火車 (fo2 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "小巴 (siu2 baa1)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'bicycle'?",
+      "choices": [
+        {
+          "value": "單車 (daan1 ce1)",
+          "correct_answer": true
+        },
+        {
+          "value": "電單車 (din6 daan1 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "私家車 (si1 gaa1 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "貨車 (fo3 ce1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'motorcycle'?",
+      "choices": [
+        {
+          "value": "單車 (daan1 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "電單車 (din6 daan1 ce1)",
+          "correct_answer": true
+        },
+        {
+          "value": "私家車 (si1 gaa1 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "貨車 (fo3 ce1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'car'?",
+      "choices": [
+        {
+          "value": "單車 (daan1 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "電單車 (din6 daan1 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "私家車 (si1 gaa1 ce1)",
+          "correct_answer": true
+        },
+        {
+          "value": "貨車 (fo3 ce1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'truck'?",
+      "choices": [
+        {
+          "value": "單車 (daan1 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "電單車 (din6 daan1 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "私家車 (si1 gaa1 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "貨車 (fo3 ce1)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'helicopter'?",
+      "choices": [
+        {
+          "value": "直升機 (zik6 sing1 gei1)",
+          "correct_answer": true
+        },
+        {
+          "value": "纜車 (laam6 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "電梯 (din6 tai1)",
+          "correct_answer": false
+        },
+        {
+          "value": "電動車 (din6 dung6 ce1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'cable car'?",
+      "choices": [
+        {
+          "value": "直升機 (zik6 sing1 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "纜車 (laam6 ce1)",
+          "correct_answer": true
+        },
+        {
+          "value": "電梯 (din6 tai1)",
+          "correct_answer": false
+        },
+        {
+          "value": "電動車 (din6 dung6 ce1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'elevator'?",
+      "choices": [
+        {
+          "value": "直升機 (zik6 sing1 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "纜車 (laam6 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "電梯 (din6 tai1)",
+          "correct_answer": true
+        },
+        {
+          "value": "電動車 (din6 dung6 ce1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'electric car'?",
+      "choices": [
+        {
+          "value": "直升機 (zik6 sing1 gei1)",
+          "correct_answer": false
+        },
+        {
+          "value": "纜車 (laam6 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "電梯 (din6 tai1)",
+          "correct_answer": false
+        },
+        {
+          "value": "電動車 (din6 dung6 ce1)",
+          "correct_answer": true
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'ambulance'?",
+      "choices": [
+        {
+          "value": "救護車 (gau3 wu6 ce1)",
+          "correct_answer": true
+        },
+        {
+          "value": "警車 (ging2 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "消防車 (siu1 fong4 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "垃圾車 (laap6 saap3 ce1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'police car'?",
+      "choices": [
+        {
+          "value": "救護車 (gau3 wu6 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "警車 (ging2 ce1)",
+          "correct_answer": true
+        },
+        {
+          "value": "消防車 (siu1 fong4 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "垃圾車 (laap6 saap3 ce1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'fire truck'?",
+      "choices": [
+        {
+          "value": "救護車 (gau3 wu6 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "警車 (ging2 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "消防車 (siu1 fong4 ce1)",
+          "correct_answer": true
+        },
+        {
+          "value": "垃圾車 (laap6 saap3 ce1)",
+          "correct_answer": false
+        }
+      ]
+    },
+    {
+      "title": "What is the Cantonese word for 'garbage truck'?",
+      "choices": [
+        {
+          "value": "救護車 (gau3 wu6 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "警車 (ging2 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "消防車 (siu1 fong4 ce1)",
+          "correct_answer": false
+        },
+        {
+          "value": "垃圾車 (laap6 saap3 ce1)",
+          "correct_answer": true
+        }
+      ]
+    }
+  ]
+}
